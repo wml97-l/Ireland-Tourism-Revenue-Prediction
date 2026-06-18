@@ -1,0 +1,865 @@
+﻿C02173V02619,Area of Residence,TLIST(Q1),Quarter,STATISTIC,Statistic Label,UNIT,VALUE
+-,All Countries,20121,2012Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1167
+-,All Countries,20121,2012Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.8
+-,All Countries,20121,2012Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,483
+-,All Countries,20122,2012Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1817
+-,All Countries,20122,2012Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7
+-,All Countries,20122,2012Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,816
+-,All Countries,20123,2012Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2095
+-,All Countries,20123,2012Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.1
+-,All Countries,20123,2012Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,994
+-,All Countries,20124,2012Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1438
+-,All Countries,20124,2012Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.2
+-,All Countries,20124,2012Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,622
+-,All Countries,20131,2013Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1252
+-,All Countries,20131,2013Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.7
+-,All Countries,20131,2013Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,541
+-,All Countries,20132,2013Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1893
+-,All Countries,20132,2013Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7
+-,All Countries,20132,2013Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,870
+-,All Countries,20133,2013Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2261
+-,All Countries,20133,2013Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.2
+-,All Countries,20133,2013Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1186
+-,All Countries,20134,2013Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1580
+-,All Countries,20134,2013Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.8
+-,All Countries,20134,2013Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,665
+-,All Countries,20141,2014Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1343
+-,All Countries,20141,2014Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.6
+-,All Countries,20141,2014Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,534
+-,All Countries,20142,2014Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2127
+-,All Countries,20142,2014Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.1
+-,All Countries,20142,2014Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1001
+-,All Countries,20143,2014Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2440
+-,All Countries,20143,2014Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.1
+-,All Countries,20143,2014Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1303
+-,All Countries,20144,2014Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1695
+-,All Countries,20144,2014Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.6
+-,All Countries,20144,2014Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,711
+-,All Countries,20151,2015Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1531
+-,All Countries,20151,2015Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.5
+-,All Countries,20151,2015Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,590
+-,All Countries,20152,2015Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2345
+-,All Countries,20152,2015Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7
+-,All Countries,20152,2015Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1194
+-,All Countries,20153,2015Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2771
+-,All Countries,20153,2015Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.9
+-,All Countries,20153,2015Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1551
+-,All Countries,20154,2015Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1996
+-,All Countries,20154,2015Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.4
+-,All Countries,20154,2015Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,873
+-,All Countries,20161,2016Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1785
+-,All Countries,20161,2016Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.5
+-,All Countries,20161,2016Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,693
+-,All Countries,20162,2016Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2599
+-,All Countries,20162,2016Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.7
+-,All Countries,20162,2016Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1261
+-,All Countries,20163,2016Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,3062
+-,All Countries,20163,2016Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.7
+-,All Countries,20163,2016Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1693
+-,All Countries,20164,2016Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2139
+-,All Countries,20164,2016Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.4
+-,All Countries,20164,2016Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,930
+-,All Countries,20171,2017Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1796
+-,All Countries,20171,2017Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.2
+-,All Countries,20171,2017Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,684
+-,All Countries,20172,2017Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2769
+-,All Countries,20172,2017Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.6
+-,All Countries,20172,2017Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1408
+-,All Countries,20173,2017Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,3096
+-,All Countries,20173,2017Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.6
+-,All Countries,20173,2017Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1736
+-,All Countries,20174,2017Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2271
+-,All Countries,20174,2017Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.9
+-,All Countries,20174,2017Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1046
+-,All Countries,20181,2018Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1921
+-,All Countries,20181,2018Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.5
+-,All Countries,20181,2018Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,795
+-,All Countries,20182,2018Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2952
+-,All Countries,20182,2018Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.3
+-,All Countries,20182,2018Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1475
+-,All Countries,20183,2018Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,3331
+-,All Countries,20183,2018Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.4
+-,All Countries,20183,2018Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1832
+-,All Countries,20184,2018Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2413
+-,All Countries,20184,2018Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.3
+-,All Countries,20184,2018Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1047
+-,All Countries,20191,2019Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2027
+-,All Countries,20191,2019Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6
+-,All Countries,20191,2019Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,763
+-,All Countries,20192,2019Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,3022
+-,All Countries,20192,2019Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.5
+-,All Countries,20192,2019Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1513
+-,All Countries,20193,2019Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,3334
+-,All Countries,20193,2019Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7
+-,All Countries,20193,2019Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1824
+-,All Countries,20194,2019Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,2425
+-,All Countries,20194,2019Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.2
+-,All Countries,20194,2019Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,1001
+DE,Germany,20121,2012Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,66
+DE,Germany,20121,2012Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.9
+DE,Germany,20121,2012Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,27
+DE,Germany,20122,2012Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,134
+DE,Germany,20122,2012Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.2
+DE,Germany,20122,2012Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,71
+DE,Germany,20123,2012Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,155
+DE,Germany,20123,2012Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.2
+DE,Germany,20123,2012Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,82
+DE,Germany,20124,2012Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,93
+DE,Germany,20124,2012Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.3
+DE,Germany,20124,2012Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,47
+DE,Germany,20131,2013Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,73
+DE,Germany,20131,2013Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.4
+DE,Germany,20131,2013Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,37
+DE,Germany,20132,2013Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,141
+DE,Germany,20132,2013Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.2
+DE,Germany,20132,2013Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,94
+DE,Germany,20133,2013Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,166
+DE,Germany,20133,2013Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.3
+DE,Germany,20133,2013Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,101
+DE,Germany,20134,2013Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,103
+DE,Germany,20134,2013Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9
+DE,Germany,20134,2013Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,54
+DE,Germany,20141,2014Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,83
+DE,Germany,20141,2014Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.6
+DE,Germany,20141,2014Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,36
+DE,Germany,20142,2014Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,171
+DE,Germany,20142,2014Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.7
+DE,Germany,20142,2014Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,122
+DE,Germany,20143,2014Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,189
+DE,Germany,20143,2014Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.1
+DE,Germany,20143,2014Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,124
+DE,Germany,20144,2014Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,115
+DE,Germany,20144,2014Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.4
+DE,Germany,20144,2014Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,51
+DE,Germany,20151,2015Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,86
+DE,Germany,20151,2015Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.1
+DE,Germany,20151,2015Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,41
+DE,Germany,20152,2015Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,196
+DE,Germany,20152,2015Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.4
+DE,Germany,20152,2015Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,146
+DE,Germany,20153,2015Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,214
+DE,Germany,20153,2015Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.1
+DE,Germany,20153,2015Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,144
+DE,Germany,20154,2015Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,133
+DE,Germany,20154,2015Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.5
+DE,Germany,20154,2015Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,66
+DE,Germany,20161,2016Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,104
+DE,Germany,20161,2016Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.9
+DE,Germany,20161,2016Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,44
+DE,Germany,20162,2016Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,192
+DE,Germany,20162,2016Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.3
+DE,Germany,20162,2016Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,122
+DE,Germany,20163,2016Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,223
+DE,Germany,20163,2016Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.5
+DE,Germany,20163,2016Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,159
+DE,Germany,20164,2016Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,133
+DE,Germany,20164,2016Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.9
+DE,Germany,20164,2016Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,63
+DE,Germany,20171,2017Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,99
+DE,Germany,20171,2017Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.4
+DE,Germany,20171,2017Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,40
+DE,Germany,20172,2017Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,210
+DE,Germany,20172,2017Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.5
+DE,Germany,20172,2017Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,135
+DE,Germany,20173,2017Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,225
+DE,Germany,20173,2017Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.8
+DE,Germany,20173,2017Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,146
+DE,Germany,20174,2017Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,148
+DE,Germany,20174,2017Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.7
+DE,Germany,20174,2017Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,78
+DE,Germany,20181,2018Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,130
+DE,Germany,20181,2018Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.5
+DE,Germany,20181,2018Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,55
+DE,Germany,20182,2018Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,245
+DE,Germany,20182,2018Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.5
+DE,Germany,20182,2018Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,153
+DE,Germany,20183,2018Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,271
+DE,Germany,20183,2018Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.3
+DE,Germany,20183,2018Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,175
+DE,Germany,20184,2018Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,172
+DE,Germany,20184,2018Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.1
+DE,Germany,20184,2018Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,85
+DE,Germany,20191,2019Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,133
+DE,Germany,20191,2019Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.7
+DE,Germany,20191,2019Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,53
+DE,Germany,20192,2019Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,246
+DE,Germany,20192,2019Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.7
+DE,Germany,20192,2019Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,150
+DE,Germany,20193,2019Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,264
+DE,Germany,20193,2019Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.7
+DE,Germany,20193,2019Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,163
+DE,Germany,20194,2019Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,170
+DE,Germany,20194,2019Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.1
+DE,Germany,20194,2019Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,80
+FR,France,20121,2012Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,67
+FR,France,20121,2012Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.8
+FR,France,20121,2012Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,29
+FR,France,20122,2012Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,129
+FR,France,20122,2012Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.5
+FR,France,20122,2012Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,63
+FR,France,20123,2012Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,129
+FR,France,20123,2012Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.6
+FR,France,20123,2012Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,66
+FR,France,20124,2012Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,71
+FR,France,20124,2012Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.6
+FR,France,20124,2012Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,31
+FR,France,20131,2013Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,84
+FR,France,20131,2013Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.9
+FR,France,20131,2013Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,37
+FR,France,20132,2013Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,144
+FR,France,20132,2013Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.1
+FR,France,20132,2013Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,60
+FR,France,20133,2013Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,130
+FR,France,20133,2013Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.7
+FR,France,20133,2013Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,72
+FR,France,20134,2013Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,75
+FR,France,20134,2013Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.4
+FR,France,20134,2013Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,31
+FR,France,20141,2014Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,69
+FR,France,20141,2014Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.6
+FR,France,20141,2014Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,25
+FR,France,20142,2014Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,149
+FR,France,20142,2014Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9
+FR,France,20142,2014Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,64
+FR,France,20143,2014Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,150
+FR,France,20143,2014Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.5
+FR,France,20143,2014Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,78
+FR,France,20144,2014Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,88
+FR,France,20144,2014Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.3
+FR,France,20144,2014Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,34
+FR,France,20151,2015Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,88
+FR,France,20151,2015Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.1
+FR,France,20151,2015Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,33
+FR,France,20152,2015Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,160
+FR,France,20152,2015Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.5
+FR,France,20152,2015Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,78
+FR,France,20153,2015Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,156
+FR,France,20153,2015Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.8
+FR,France,20153,2015Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,84
+FR,France,20154,2015Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,101
+FR,France,20154,2015Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.6
+FR,France,20154,2015Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,41
+FR,France,20161,2016Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,98
+FR,France,20161,2016Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.3
+FR,France,20161,2016Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,42
+FR,France,20162,2016Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,165
+FR,France,20162,2016Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.9
+FR,France,20162,2016Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,92
+FR,France,20163,2016Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,171
+FR,France,20163,2016Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.6
+FR,France,20163,2016Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,103
+FR,France,20164,2016Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,98
+FR,France,20164,2016Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.4
+FR,France,20164,2016Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,38
+FR,France,20171,2017Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,107
+FR,France,20171,2017Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.6
+FR,France,20171,2017Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,51
+FR,France,20172,2017Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,169
+FR,France,20172,2017Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.1
+FR,France,20172,2017Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,82
+FR,France,20173,2017Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,164
+FR,France,20173,2017Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.5
+FR,France,20173,2017Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,99
+FR,France,20174,2017Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,109
+FR,France,20174,2017Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.3
+FR,France,20174,2017Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,63
+FR,France,20181,2018Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,97
+FR,France,20181,2018Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.1
+FR,France,20181,2018Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,48
+FR,France,20182,2018Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,178
+FR,France,20182,2018Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.7
+FR,France,20182,2018Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,104
+FR,France,20183,2018Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,175
+FR,France,20183,2018Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.5
+FR,France,20183,2018Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,97
+FR,France,20184,2018Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,114
+FR,France,20184,2018Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.1
+FR,France,20184,2018Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,43
+FR,France,20191,2019Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,117
+FR,France,20191,2019Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.9
+FR,France,20191,2019Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,43
+FR,France,20192,2019Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,173
+FR,France,20192,2019Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.8
+FR,France,20192,2019Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,81
+FR,France,20193,2019Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,172
+FR,France,20193,2019Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.6
+FR,France,20193,2019Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,98
+FR,France,20194,2019Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,115
+FR,France,20194,2019Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.1
+FR,France,20194,2019Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,46
+IT,Italy,20121,2012Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,40
+IT,Italy,20121,2012Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,5.7
+IT,Italy,20121,2012Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,18
+IT,Italy,20122,2012Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,68
+IT,Italy,20122,2012Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.8
+IT,Italy,20122,2012Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,30
+IT,Italy,20123,2012Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,94
+IT,Italy,20123,2012Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.9
+IT,Italy,20123,2012Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,39
+IT,Italy,20124,2012Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,50
+IT,Italy,20124,2012Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,12.3
+IT,Italy,20124,2012Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,20
+IT,Italy,20131,2013Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,39
+IT,Italy,20131,2013Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.8
+IT,Italy,20131,2013Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,19
+IT,Italy,20132,2013Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,63
+IT,Italy,20132,2013Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.1
+IT,Italy,20132,2013Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,32
+IT,Italy,20133,2013Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,83
+IT,Italy,20133,2013Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.8
+IT,Italy,20133,2013Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,49
+IT,Italy,20134,2013Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,49
+IT,Italy,20134,2013Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.8
+IT,Italy,20134,2013Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,18
+IT,Italy,20141,2014Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,44
+IT,Italy,20141,2014Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.3
+IT,Italy,20141,2014Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,18
+IT,Italy,20142,2014Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,62
+IT,Italy,20142,2014Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.9
+IT,Italy,20142,2014Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,31
+IT,Italy,20143,2014Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,98
+IT,Italy,20143,2014Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.6
+IT,Italy,20143,2014Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,60
+IT,Italy,20144,2014Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,54
+IT,Italy,20144,2014Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9
+IT,Italy,20144,2014Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,23
+IT,Italy,20151,2015Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,60
+IT,Italy,20151,2015Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.6
+IT,Italy,20151,2015Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,24
+IT,Italy,20152,2015Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,81
+IT,Italy,20152,2015Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.9
+IT,Italy,20152,2015Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,32
+IT,Italy,20153,2015Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,116
+IT,Italy,20153,2015Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.7
+IT,Italy,20153,2015Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,70
+IT,Italy,20154,2015Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,65
+IT,Italy,20154,2015Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.5
+IT,Italy,20154,2015Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,26
+IT,Italy,20161,2016Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,62
+IT,Italy,20161,2016Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,5.3
+IT,Italy,20161,2016Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,22
+IT,Italy,20162,2016Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,96
+IT,Italy,20162,2016Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.5
+IT,Italy,20162,2016Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,44
+IT,Italy,20163,2016Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,129
+IT,Italy,20163,2016Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.9
+IT,Italy,20163,2016Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,88
+IT,Italy,20164,2016Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,58
+IT,Italy,20164,2016Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.4
+IT,Italy,20164,2016Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,21
+IT,Italy,20171,2017Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,60
+IT,Italy,20171,2017Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,5.7
+IT,Italy,20171,2017Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,23
+IT,Italy,20172,2017Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,97
+IT,Italy,20172,2017Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.8
+IT,Italy,20172,2017Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,55
+IT,Italy,20173,2017Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,130
+IT,Italy,20173,2017Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9
+IT,Italy,20173,2017Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,80
+IT,Italy,20174,2017Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,76
+IT,Italy,20174,2017Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.6
+IT,Italy,20174,2017Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,33
+IT,Italy,20181,2018Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,71
+IT,Italy,20181,2018Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.9
+IT,Italy,20181,2018Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,30
+IT,Italy,20182,2018Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,108
+IT,Italy,20182,2018Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.8
+IT,Italy,20182,2018Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,46
+IT,Italy,20183,2018Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,142
+IT,Italy,20183,2018Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.3
+IT,Italy,20183,2018Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,82
+IT,Italy,20184,2018Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,87
+IT,Italy,20184,2018Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.3
+IT,Italy,20184,2018Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,39
+IT,Italy,20191,2019Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,67
+IT,Italy,20191,2019Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.4
+IT,Italy,20191,2019Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,25
+IT,Italy,20192,2019Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,98
+IT,Italy,20192,2019Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.6
+IT,Italy,20192,2019Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,36
+IT,Italy,20193,2019Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,148
+IT,Italy,20193,2019Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.5
+IT,Italy,20193,2019Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,90
+IT,Italy,20194,2019Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,79
+IT,Italy,20194,2019Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.3
+IT,Italy,20194,2019Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,28
+USCA,United States and Canada,20121,2012Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,145
+USCA,United States and Canada,20121,2012Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8
+USCA,United States and Canada,20121,2012Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,97
+USCA,United States and Canada,20122,2012Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,306
+USCA,United States and Canada,20122,2012Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.6
+USCA,United States and Canada,20122,2012Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,210
+USCA,United States and Canada,20123,2012Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,365
+USCA,United States and Canada,20123,2012Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.4
+USCA,United States and Canada,20123,2012Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,287
+USCA,United States and Canada,20124,2012Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,201
+USCA,United States and Canada,20124,2012Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.1
+USCA,United States and Canada,20124,2012Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,148
+USCA,United States and Canada,20131,2013Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,169
+USCA,United States and Canada,20131,2013Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.3
+USCA,United States and Canada,20131,2013Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,101
+USCA,United States and Canada,20132,2013Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,351
+USCA,United States and Canada,20132,2013Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.9
+USCA,United States and Canada,20132,2013Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,239
+USCA,United States and Canada,20133,2013Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,415
+USCA,United States and Canada,20133,2013Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.3
+USCA,United States and Canada,20133,2013Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,329
+USCA,United States and Canada,20134,2013Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,223
+USCA,United States and Canada,20134,2013Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.8
+USCA,United States and Canada,20134,2013Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,153
+USCA,United States and Canada,20141,2014Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,179
+USCA,United States and Canada,20141,2014Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.3
+USCA,United States and Canada,20141,2014Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,107
+USCA,United States and Canada,20142,2014Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,396
+USCA,United States and Canada,20142,2014Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7
+USCA,United States and Canada,20142,2014Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,267
+USCA,United States and Canada,20143,2014Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,490
+USCA,United States and Canada,20143,2014Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.9
+USCA,United States and Canada,20143,2014Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,389
+USCA,United States and Canada,20144,2014Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,264
+USCA,United States and Canada,20144,2014Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.3
+USCA,United States and Canada,20144,2014Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,172
+USCA,United States and Canada,20151,2015Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,191
+USCA,United States and Canada,20151,2015Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7
+USCA,United States and Canada,20151,2015Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,125
+USCA,United States and Canada,20152,2015Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,468
+USCA,United States and Canada,20152,2015Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.7
+USCA,United States and Canada,20152,2015Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,375
+USCA,United States and Canada,20153,2015Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,550
+USCA,United States and Canada,20153,2015Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.8
+USCA,United States and Canada,20153,2015Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,470
+USCA,United States and Canada,20154,2015Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,305
+USCA,United States and Canada,20154,2015Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8
+USCA,United States and Canada,20154,2015Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,226
+USCA,United States and Canada,20161,2016Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,238
+USCA,United States and Canada,20161,2016Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.9
+USCA,United States and Canada,20161,2016Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,144
+USCA,United States and Canada,20162,2016Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,520
+USCA,United States and Canada,20162,2016Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.7
+USCA,United States and Canada,20162,2016Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,394
+USCA,United States and Canada,20163,2016Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,638
+USCA,United States and Canada,20163,2016Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.4
+USCA,United States and Canada,20163,2016Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,494
+USCA,United States and Canada,20164,2016Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,412
+USCA,United States and Canada,20164,2016Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.7
+USCA,United States and Canada,20164,2016Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,303
+USCA,United States and Canada,20171,2017Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,293
+USCA,United States and Canada,20171,2017Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6
+USCA,United States and Canada,20171,2017Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,152
+USCA,United States and Canada,20172,2017Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,629
+USCA,United States and Canada,20172,2017Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7
+USCA,United States and Canada,20172,2017Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,476
+USCA,United States and Canada,20173,2017Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,733
+USCA,United States and Canada,20173,2017Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.3
+USCA,United States and Canada,20173,2017Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,580
+USCA,United States and Canada,20174,2017Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,447
+USCA,United States and Canada,20174,2017Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.8
+USCA,United States and Canada,20174,2017Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,315
+USCA,United States and Canada,20181,2018Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,332
+USCA,United States and Canada,20181,2018Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.2
+USCA,United States and Canada,20181,2018Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,194
+USCA,United States and Canada,20182,2018Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,689
+USCA,United States and Canada,20182,2018Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.4
+USCA,United States and Canada,20182,2018Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,493
+USCA,United States and Canada,20183,2018Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,847
+USCA,United States and Canada,20183,2018Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.1
+USCA,United States and Canada,20183,2018Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,681
+USCA,United States and Canada,20184,2018Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,516
+USCA,United States and Canada,20184,2018Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.6
+USCA,United States and Canada,20184,2018Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,367
+USCA,United States and Canada,20191,2019Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,367
+USCA,United States and Canada,20191,2019Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,5.9
+USCA,United States and Canada,20191,2019Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,200
+USCA,United States and Canada,20192,2019Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,746
+USCA,United States and Canada,20192,2019Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.4
+USCA,United States and Canada,20192,2019Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,546
+USCA,United States and Canada,20193,2019Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,825
+USCA,United States and Canada,20193,2019Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.4
+USCA,United States and Canada,20193,2019Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,644
+USCA,United States and Canada,20194,2019Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,474
+USCA,United States and Canada,20194,2019Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.9
+USCA,United States and Canada,20194,2019Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,301
+XB,"Great Britain (includes England, Scotland, Wales)",20121,2012Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,562
+XB,"Great Britain (includes England, Scotland, Wales)",20121,2012Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.3
+XB,"Great Britain (includes England, Scotland, Wales)",20121,2012Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,168
+XB,"Great Britain (includes England, Scotland, Wales)",20122,2012Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,735
+XB,"Great Britain (includes England, Scotland, Wales)",20122,2012Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.4
+XB,"Great Britain (includes England, Scotland, Wales)",20122,2012Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,218
+XB,"Great Britain (includes England, Scotland, Wales)",20123,2012Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,830
+XB,"Great Britain (includes England, Scotland, Wales)",20123,2012Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,5.3
+XB,"Great Britain (includes England, Scotland, Wales)",20123,2012Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,246
+XB,"Great Britain (includes England, Scotland, Wales)",20124,2012Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,646
+XB,"Great Britain (includes England, Scotland, Wales)",20124,2012Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.4
+XB,"Great Britain (includes England, Scotland, Wales)",20124,2012Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,186
+XB,"Great Britain (includes England, Scotland, Wales)",20131,2013Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,570
+XB,"Great Britain (includes England, Scotland, Wales)",20131,2013Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.5
+XB,"Great Britain (includes England, Scotland, Wales)",20131,2013Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,176
+XB,"Great Britain (includes England, Scotland, Wales)",20132,2013Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,727
+XB,"Great Britain (includes England, Scotland, Wales)",20132,2013Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.3
+XB,"Great Britain (includes England, Scotland, Wales)",20132,2013Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,194
+XB,"Great Britain (includes England, Scotland, Wales)",20133,2013Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,905
+XB,"Great Britain (includes England, Scotland, Wales)",20133,2013Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,5.5
+XB,"Great Britain (includes England, Scotland, Wales)",20133,2013Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,281
+XB,"Great Britain (includes England, Scotland, Wales)",20134,2013Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,727
+XB,"Great Britain (includes England, Scotland, Wales)",20134,2013Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.2
+XB,"Great Britain (includes England, Scotland, Wales)",20134,2013Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,196
+XB,"Great Britain (includes England, Scotland, Wales)",20141,2014Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,635
+XB,"Great Britain (includes England, Scotland, Wales)",20141,2014Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.3
+XB,"Great Britain (includes England, Scotland, Wales)",20141,2014Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,171
+XB,"Great Britain (includes England, Scotland, Wales)",20142,2014Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,838
+XB,"Great Britain (includes England, Scotland, Wales)",20142,2014Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.2
+XB,"Great Britain (includes England, Scotland, Wales)",20142,2014Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,223
+XB,"Great Britain (includes England, Scotland, Wales)",20143,2014Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,923
+XB,"Great Britain (includes England, Scotland, Wales)",20143,2014Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,5.5
+XB,"Great Britain (includes England, Scotland, Wales)",20143,2014Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,280
+XB,"Great Britain (includes England, Scotland, Wales)",20144,2014Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,768
+XB,"Great Britain (includes England, Scotland, Wales)",20144,2014Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,3.9
+XB,"Great Britain (includes England, Scotland, Wales)",20144,2014Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,212
+XB,"Great Britain (includes England, Scotland, Wales)",20151,2015Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,726
+XB,"Great Britain (includes England, Scotland, Wales)",20151,2015Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.1
+XB,"Great Britain (includes England, Scotland, Wales)",20151,2015Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,181
+XB,"Great Britain (includes England, Scotland, Wales)",20152,2015Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,886
+XB,"Great Britain (includes England, Scotland, Wales)",20152,2015Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.2
+XB,"Great Britain (includes England, Scotland, Wales)",20152,2015Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,246
+XB,"Great Britain (includes England, Scotland, Wales)",20153,2015Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1050
+XB,"Great Britain (includes England, Scotland, Wales)",20153,2015Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,5.1
+XB,"Great Britain (includes England, Scotland, Wales)",20153,2015Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,309
+XB,"Great Britain (includes England, Scotland, Wales)",20154,2015Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,884
+XB,"Great Britain (includes England, Scotland, Wales)",20154,2015Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,3.6
+XB,"Great Britain (includes England, Scotland, Wales)",20154,2015Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,236
+XB,"Great Britain (includes England, Scotland, Wales)",20161,2016Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,851
+XB,"Great Britain (includes England, Scotland, Wales)",20161,2016Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,3.8
+XB,"Great Britain (includes England, Scotland, Wales)",20161,2016Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,214
+XB,"Great Britain (includes England, Scotland, Wales)",20162,2016Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1014
+XB,"Great Britain (includes England, Scotland, Wales)",20162,2016Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4
+XB,"Great Britain (includes England, Scotland, Wales)",20162,2016Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,269
+XB,"Great Britain (includes England, Scotland, Wales)",20163,2016Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1148
+XB,"Great Britain (includes England, Scotland, Wales)",20163,2016Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,5
+XB,"Great Britain (includes England, Scotland, Wales)",20163,2016Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,337
+XB,"Great Britain (includes England, Scotland, Wales)",20164,2016Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,911
+XB,"Great Britain (includes England, Scotland, Wales)",20164,2016Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,3.8
+XB,"Great Britain (includes England, Scotland, Wales)",20164,2016Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,241
+XB,"Great Britain (includes England, Scotland, Wales)",20171,2017Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,796
+XB,"Great Britain (includes England, Scotland, Wales)",20171,2017Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4
+XB,"Great Britain (includes England, Scotland, Wales)",20171,2017Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,198
+XB,"Great Britain (includes England, Scotland, Wales)",20172,2017Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,949
+XB,"Great Britain (includes England, Scotland, Wales)",20172,2017Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.3
+XB,"Great Britain (includes England, Scotland, Wales)",20172,2017Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,267
+XB,"Great Britain (includes England, Scotland, Wales)",20173,2017Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1065
+XB,"Great Britain (includes England, Scotland, Wales)",20173,2017Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,5.2
+XB,"Great Britain (includes England, Scotland, Wales)",20173,2017Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,303
+XB,"Great Britain (includes England, Scotland, Wales)",20174,2017Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,918
+XB,"Great Britain (includes England, Scotland, Wales)",20174,2017Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,3.9
+XB,"Great Britain (includes England, Scotland, Wales)",20174,2017Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,239
+XB,"Great Britain (includes England, Scotland, Wales)",20181,2018Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,798
+XB,"Great Britain (includes England, Scotland, Wales)",20181,2018Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,3.9
+XB,"Great Britain (includes England, Scotland, Wales)",20181,2018Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,206
+XB,"Great Britain (includes England, Scotland, Wales)",20182,2018Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,988
+XB,"Great Britain (includes England, Scotland, Wales)",20182,2018Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,3.9
+XB,"Great Britain (includes England, Scotland, Wales)",20182,2018Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,262
+XB,"Great Britain (includes England, Scotland, Wales)",20183,2018Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1056
+XB,"Great Britain (includes England, Scotland, Wales)",20183,2018Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.8
+XB,"Great Britain (includes England, Scotland, Wales)",20183,2018Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,292
+XB,"Great Britain (includes England, Scotland, Wales)",20184,2018Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,917
+XB,"Great Britain (includes England, Scotland, Wales)",20184,2018Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,3.6
+XB,"Great Britain (includes England, Scotland, Wales)",20184,2018Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,221
+XB,"Great Britain (includes England, Scotland, Wales)",20191,2019Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,809
+XB,"Great Britain (includes England, Scotland, Wales)",20191,2019Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,3.7
+XB,"Great Britain (includes England, Scotland, Wales)",20191,2019Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,195
+XB,"Great Britain (includes England, Scotland, Wales)",20192,2019Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,985
+XB,"Great Britain (includes England, Scotland, Wales)",20192,2019Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.1
+XB,"Great Britain (includes England, Scotland, Wales)",20192,2019Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,254
+XB,"Great Britain (includes England, Scotland, Wales)",20193,2019Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,1065
+XB,"Great Britain (includes England, Scotland, Wales)",20193,2019Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,4.9
+XB,"Great Britain (includes England, Scotland, Wales)",20193,2019Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,305
+XB,"Great Britain (includes England, Scotland, Wales)",20194,2019Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,928
+XB,"Great Britain (includes England, Scotland, Wales)",20194,2019Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,3.5
+XB,"Great Britain (includes England, Scotland, Wales)",20194,2019Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,223
+ZZAC2,Australia and New Zealand,20121,2012Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,21
+ZZAC2,Australia and New Zealand,20121,2012Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,16.2
+ZZAC2,Australia and New Zealand,20121,2012Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,18
+ZZAC2,Australia and New Zealand,20122,2012Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,43
+ZZAC2,Australia and New Zealand,20122,2012Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.6
+ZZAC2,Australia and New Zealand,20122,2012Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,36
+ZZAC2,Australia and New Zealand,20123,2012Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,56
+ZZAC2,Australia and New Zealand,20123,2012Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.8
+ZZAC2,Australia and New Zealand,20123,2012Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,49
+ZZAC2,Australia and New Zealand,20124,2012Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,34
+ZZAC2,Australia and New Zealand,20124,2012Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10
+ZZAC2,Australia and New Zealand,20124,2012Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,30
+ZZAC2,Australia and New Zealand,20131,2013Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,26
+ZZAC2,Australia and New Zealand,20131,2013Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,16.2
+ZZAC2,Australia and New Zealand,20131,2013Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,24
+ZZAC2,Australia and New Zealand,20132,2013Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,49
+ZZAC2,Australia and New Zealand,20132,2013Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.4
+ZZAC2,Australia and New Zealand,20132,2013Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,47
+ZZAC2,Australia and New Zealand,20133,2013Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,69
+ZZAC2,Australia and New Zealand,20133,2013Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.7
+ZZAC2,Australia and New Zealand,20133,2013Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,61
+ZZAC2,Australia and New Zealand,20134,2013Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,43
+ZZAC2,Australia and New Zealand,20134,2013Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.2
+ZZAC2,Australia and New Zealand,20134,2013Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,37
+ZZAC2,Australia and New Zealand,20141,2014Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,30
+ZZAC2,Australia and New Zealand,20141,2014Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,15.5
+ZZAC2,Australia and New Zealand,20141,2014Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,29
+ZZAC2,Australia and New Zealand,20142,2014Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,51
+ZZAC2,Australia and New Zealand,20142,2014Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.1
+ZZAC2,Australia and New Zealand,20142,2014Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,45
+ZZAC2,Australia and New Zealand,20143,2014Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,69
+ZZAC2,Australia and New Zealand,20143,2014Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,12.8
+ZZAC2,Australia and New Zealand,20143,2014Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,67
+ZZAC2,Australia and New Zealand,20144,2014Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,39
+ZZAC2,Australia and New Zealand,20144,2014Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,12.7
+ZZAC2,Australia and New Zealand,20144,2014Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,36
+ZZAC2,Australia and New Zealand,20151,2015Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,31
+ZZAC2,Australia and New Zealand,20151,2015Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,14
+ZZAC2,Australia and New Zealand,20151,2015Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,27
+ZZAC2,Australia and New Zealand,20152,2015Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,55
+ZZAC2,Australia and New Zealand,20152,2015Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.7
+ZZAC2,Australia and New Zealand,20152,2015Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,52
+ZZAC2,Australia and New Zealand,20153,2015Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,76
+ZZAC2,Australia and New Zealand,20153,2015Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,12.9
+ZZAC2,Australia and New Zealand,20153,2015Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,79
+ZZAC2,Australia and New Zealand,20154,2015Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,46
+ZZAC2,Australia and New Zealand,20154,2015Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,12.2
+ZZAC2,Australia and New Zealand,20154,2015Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,42
+ZZAC2,Australia and New Zealand,20161,2016Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,31
+ZZAC2,Australia and New Zealand,20161,2016Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,14.2
+ZZAC2,Australia and New Zealand,20161,2016Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,31
+ZZAC2,Australia and New Zealand,20162,2016Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,51
+ZZAC2,Australia and New Zealand,20162,2016Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,12.5
+ZZAC2,Australia and New Zealand,20162,2016Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,52
+ZZAC2,Australia and New Zealand,20163,2016Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,73
+ZZAC2,Australia and New Zealand,20163,2016Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.9
+ZZAC2,Australia and New Zealand,20163,2016Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,76
+ZZAC2,Australia and New Zealand,20164,2016Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,49
+ZZAC2,Australia and New Zealand,20164,2016Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,12.3
+ZZAC2,Australia and New Zealand,20164,2016Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,45
+ZZAC2,Australia and New Zealand,20171,2017Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,35
+ZZAC2,Australia and New Zealand,20171,2017Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,15.8
+ZZAC2,Australia and New Zealand,20171,2017Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,38
+ZZAC2,Australia and New Zealand,20172,2017Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,54
+ZZAC2,Australia and New Zealand,20172,2017Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.2
+ZZAC2,Australia and New Zealand,20172,2017Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,53
+ZZAC2,Australia and New Zealand,20173,2017Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,76
+ZZAC2,Australia and New Zealand,20173,2017Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,12.5
+ZZAC2,Australia and New Zealand,20173,2017Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,76
+ZZAC2,Australia and New Zealand,20174,2017Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,43
+ZZAC2,Australia and New Zealand,20174,2017Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,12.1
+ZZAC2,Australia and New Zealand,20174,2017Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,41
+ZZAC2,Australia and New Zealand,20181,2018Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,35
+ZZAC2,Australia and New Zealand,20181,2018Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,13.8
+ZZAC2,Australia and New Zealand,20181,2018Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,35
+ZZAC2,Australia and New Zealand,20182,2018Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,58
+ZZAC2,Australia and New Zealand,20182,2018Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,12
+ZZAC2,Australia and New Zealand,20182,2018Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,56
+ZZAC2,Australia and New Zealand,20183,2018Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,85
+ZZAC2,Australia and New Zealand,20183,2018Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.8
+ZZAC2,Australia and New Zealand,20183,2018Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,83
+ZZAC2,Australia and New Zealand,20184,2018Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,50
+ZZAC2,Australia and New Zealand,20184,2018Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11
+ZZAC2,Australia and New Zealand,20184,2018Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,44
+ZZAC2,Australia and New Zealand,20191,2019Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,33
+ZZAC2,Australia and New Zealand,20191,2019Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,14.3
+ZZAC2,Australia and New Zealand,20191,2019Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,29
+ZZAC2,Australia and New Zealand,20192,2019Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,58
+ZZAC2,Australia and New Zealand,20192,2019Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.3
+ZZAC2,Australia and New Zealand,20192,2019Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,54
+ZZAC2,Australia and New Zealand,20193,2019Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,87
+ZZAC2,Australia and New Zealand,20193,2019Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.5
+ZZAC2,Australia and New Zealand,20193,2019Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,83
+ZZAC2,Australia and New Zealand,20194,2019Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,47
+ZZAC2,Australia and New Zealand,20194,2019Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.8
+ZZAC2,Australia and New Zealand,20194,2019Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,40
+ZZEURQ06,Other Europe (14),20121,2012Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,223
+ZZEURQ06,Other Europe (14),20121,2012Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.4
+ZZEURQ06,Other Europe (14),20121,2012Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,96
+ZZEURQ06,Other Europe (14),20122,2012Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,342
+ZZEURQ06,Other Europe (14),20122,2012Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.3
+ZZEURQ06,Other Europe (14),20122,2012Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,145
+ZZEURQ06,Other Europe (14),20123,2012Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,396
+ZZEURQ06,Other Europe (14),20123,2012Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.4
+ZZEURQ06,Other Europe (14),20123,2012Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,177
+ZZEURQ06,Other Europe (14),20124,2012Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,291
+ZZEURQ06,Other Europe (14),20124,2012Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.8
+ZZEURQ06,Other Europe (14),20124,2012Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,125
+ZZEURQ06,Other Europe (14),20131,2013Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,248
+ZZEURQ06,Other Europe (14),20131,2013Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.9
+ZZEURQ06,Other Europe (14),20131,2013Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,120
+ZZEURQ06,Other Europe (14),20132,2013Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,357
+ZZEURQ06,Other Europe (14),20132,2013Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.5
+ZZEURQ06,Other Europe (14),20132,2013Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,159
+ZZEURQ06,Other Europe (14),20133,2013Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,408
+ZZEURQ06,Other Europe (14),20133,2013Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10
+ZZEURQ06,Other Europe (14),20133,2013Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,226
+ZZEURQ06,Other Europe (14),20134,2013Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,300
+ZZEURQ06,Other Europe (14),20134,2013Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.1
+ZZEURQ06,Other Europe (14),20134,2013Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,124
+ZZEURQ06,Other Europe (14),20141,2014Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,252
+ZZEURQ06,Other Europe (14),20141,2014Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.8
+ZZEURQ06,Other Europe (14),20141,2014Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,104
+ZZEURQ06,Other Europe (14),20142,2014Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,389
+ZZEURQ06,Other Europe (14),20142,2014Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.1
+ZZEURQ06,Other Europe (14),20142,2014Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,177
+ZZEURQ06,Other Europe (14),20143,2014Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,425
+ZZEURQ06,Other Europe (14),20143,2014Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.7
+ZZEURQ06,Other Europe (14),20143,2014Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,226
+ZZEURQ06,Other Europe (14),20144,2014Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,302
+ZZEURQ06,Other Europe (14),20144,2014Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.9
+ZZEURQ06,Other Europe (14),20144,2014Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,131
+ZZEURQ06,Other Europe (14),20151,2015Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,292
+ZZEURQ06,Other Europe (14),20151,2015Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.4
+ZZEURQ06,Other Europe (14),20151,2015Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,117
+ZZEURQ06,Other Europe (14),20152,2015Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,415
+ZZEURQ06,Other Europe (14),20152,2015Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.2
+ZZEURQ06,Other Europe (14),20152,2015Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,192
+ZZEURQ06,Other Europe (14),20153,2015Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,501
+ZZEURQ06,Other Europe (14),20153,2015Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,10.1
+ZZEURQ06,Other Europe (14),20153,2015Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,301
+ZZEURQ06,Other Europe (14),20154,2015Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,380
+ZZEURQ06,Other Europe (14),20154,2015Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.5
+ZZEURQ06,Other Europe (14),20154,2015Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,161
+ZZEURQ06,Other Europe (14),20161,2016Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,336
+ZZEURQ06,Other Europe (14),20161,2016Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.6
+ZZEURQ06,Other Europe (14),20161,2016Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,137
+ZZEURQ06,Other Europe (14),20162,2016Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,476
+ZZEURQ06,Other Europe (14),20162,2016Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.2
+ZZEURQ06,Other Europe (14),20162,2016Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,208
+ZZEURQ06,Other Europe (14),20163,2016Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,562
+ZZEURQ06,Other Europe (14),20163,2016Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,9.7
+ZZEURQ06,Other Europe (14),20163,2016Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,324
+ZZEURQ06,Other Europe (14),20164,2016Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,400
+ZZEURQ06,Other Europe (14),20164,2016Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8
+ZZEURQ06,Other Europe (14),20164,2016Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,151
+ZZEURQ06,Other Europe (14),20171,2017Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,329
+ZZEURQ06,Other Europe (14),20171,2017Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.1
+ZZEURQ06,Other Europe (14),20171,2017Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,121
+ZZEURQ06,Other Europe (14),20172,2017Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,546
+ZZEURQ06,Other Europe (14),20172,2017Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.4
+ZZEURQ06,Other Europe (14),20172,2017Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,250
+ZZEURQ06,Other Europe (14),20173,2017Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,568
+ZZEURQ06,Other Europe (14),20173,2017Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.8
+ZZEURQ06,Other Europe (14),20173,2017Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,316
+ZZEURQ06,Other Europe (14),20174,2017Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,445
+ZZEURQ06,Other Europe (14),20174,2017Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.8
+ZZEURQ06,Other Europe (14),20174,2017Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,196
+ZZEURQ06,Other Europe (14),20181,2018Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,380
+ZZEURQ06,Other Europe (14),20181,2018Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8
+ZZEURQ06,Other Europe (14),20181,2018Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,151
+ZZEURQ06,Other Europe (14),20182,2018Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,573
+ZZEURQ06,Other Europe (14),20182,2018Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.5
+ZZEURQ06,Other Europe (14),20182,2018Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,262
+ZZEURQ06,Other Europe (14),20183,2018Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,605
+ZZEURQ06,Other Europe (14),20183,2018Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8.2
+ZZEURQ06,Other Europe (14),20183,2018Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,300
+ZZEURQ06,Other Europe (14),20184,2018Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,462
+ZZEURQ06,Other Europe (14),20184,2018Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8
+ZZEURQ06,Other Europe (14),20184,2018Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,176
+ZZEURQ06,Other Europe (14),20191,2019Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,413
+ZZEURQ06,Other Europe (14),20191,2019Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,6.4
+ZZEURQ06,Other Europe (14),20191,2019Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,148
+ZZEURQ06,Other Europe (14),20192,2019Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,588
+ZZEURQ06,Other Europe (14),20192,2019Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.9
+ZZEURQ06,Other Europe (14),20192,2019Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,285
+ZZEURQ06,Other Europe (14),20193,2019Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,619
+ZZEURQ06,Other Europe (14),20193,2019Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,8
+ZZEURQ06,Other Europe (14),20193,2019Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,323
+ZZEURQ06,Other Europe (14),20194,2019Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,509
+ZZEURQ06,Other Europe (14),20194,2019Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,7.4
+ZZEURQ06,Other Europe (14),20194,2019Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,203
+ZZWORX18,Other countries (18),20121,2012Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,44
+ZZWORX18,Other countries (18),20121,2012Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,16.3
+ZZWORX18,Other countries (18),20121,2012Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,30
+ZZWORX18,Other countries (18),20122,2012Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,61
+ZZWORX18,Other countries (18),20122,2012Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,13.7
+ZZWORX18,Other countries (18),20122,2012Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,42
+ZZWORX18,Other countries (18),20123,2012Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,68
+ZZWORX18,Other countries (18),20123,2012Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,13.9
+ZZWORX18,Other countries (18),20123,2012Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,48
+ZZWORX18,Other countries (18),20124,2012Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,51
+ZZWORX18,Other countries (18),20124,2012Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.9
+ZZWORX18,Other countries (18),20124,2012Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,35
+ZZWORX18,Other countries (18),20131,2013Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,43
+ZZWORX18,Other countries (18),20131,2013Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,15.7
+ZZWORX18,Other countries (18),20131,2013Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,27
+ZZWORX18,Other countries (18),20132,2013Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,61
+ZZWORX18,Other countries (18),20132,2013Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.6
+ZZWORX18,Other countries (18),20132,2013Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,45
+ZZWORX18,Other countries (18),20133,2013Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,86
+ZZWORX18,Other countries (18),20133,2013Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,15.6
+ZZWORX18,Other countries (18),20133,2013Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,68
+ZZWORX18,Other countries (18),20134,2013Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,59
+ZZWORX18,Other countries (18),20134,2013Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,13.5
+ZZWORX18,Other countries (18),20134,2013Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,52
+ZZWORX18,Other countries (18),20141,2014Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,51
+ZZWORX18,Other countries (18),20141,2014Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,16
+ZZWORX18,Other countries (18),20141,2014Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,44
+ZZWORX18,Other countries (18),20142,2014Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,71
+ZZWORX18,Other countries (18),20142,2014Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,17.4
+ZZWORX18,Other countries (18),20142,2014Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,71
+ZZWORX18,Other countries (18),20143,2014Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,98
+ZZWORX18,Other countries (18),20143,2014Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,13.5
+ZZWORX18,Other countries (18),20143,2014Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,78
+ZZWORX18,Other countries (18),20144,2014Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,64
+ZZWORX18,Other countries (18),20144,2014Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,13
+ZZWORX18,Other countries (18),20144,2014Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,52
+ZZWORX18,Other countries (18),20151,2015Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,57
+ZZWORX18,Other countries (18),20151,2015Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,14.8
+ZZWORX18,Other countries (18),20151,2015Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,43
+ZZWORX18,Other countries (18),20152,2015Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,85
+ZZWORX18,Other countries (18),20152,2015Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,14.3
+ZZWORX18,Other countries (18),20152,2015Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,72
+ZZWORX18,Other countries (18),20153,2015Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,108
+ZZWORX18,Other countries (18),20153,2015Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,15.2
+ZZWORX18,Other countries (18),20153,2015Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,92
+ZZWORX18,Other countries (18),20154,2015Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,82
+ZZWORX18,Other countries (18),20154,2015Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,15.9
+ZZWORX18,Other countries (18),20154,2015Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,75
+ZZWORX18,Other countries (18),20161,2016Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,64
+ZZWORX18,Other countries (18),20161,2016Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,18
+ZZWORX18,Other countries (18),20161,2016Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,60
+ZZWORX18,Other countries (18),20162,2016Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,86
+ZZWORX18,Other countries (18),20162,2016Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,15.3
+ZZWORX18,Other countries (18),20162,2016Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,79
+ZZWORX18,Other countries (18),20163,2016Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,117
+ZZWORX18,Other countries (18),20163,2016Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,15.2
+ZZWORX18,Other countries (18),20163,2016Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,112
+ZZWORX18,Other countries (18),20164,2016Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,79
+ZZWORX18,Other countries (18),20164,2016Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,14.5
+ZZWORX18,Other countries (18),20164,2016Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,68
+ZZWORX18,Other countries (18),20171,2017Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,76
+ZZWORX18,Other countries (18),20171,2017Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,16.5
+ZZWORX18,Other countries (18),20171,2017Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,61
+ZZWORX18,Other countries (18),20172,2017Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,115
+ZZWORX18,Other countries (18),20172,2017Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,12
+ZZWORX18,Other countries (18),20172,2017Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,92
+ZZWORX18,Other countries (18),20173,2017Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,135
+ZZWORX18,Other countries (18),20173,2017Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,14.7
+ZZWORX18,Other countries (18),20173,2017Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,137
+ZZWORX18,Other countries (18),20174,2017Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,85
+ZZWORX18,Other countries (18),20174,2017Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,20.3
+ZZWORX18,Other countries (18),20174,2017Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,81
+ZZWORX18,Other countries (18),20181,2018Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,78
+ZZWORX18,Other countries (18),20181,2018Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,19.1
+ZZWORX18,Other countries (18),20181,2018Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,76
+ZZWORX18,Other countries (18),20182,2018Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,112
+ZZWORX18,Other countries (18),20182,2018Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11
+ZZWORX18,Other countries (18),20182,2018Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,98
+ZZWORX18,Other countries (18),20183,2018Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,149
+ZZWORX18,Other countries (18),20183,2018Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,15.2
+ZZWORX18,Other countries (18),20183,2018Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,123
+ZZWORX18,Other countries (18),20184,2018Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,94
+ZZWORX18,Other countries (18),20184,2018Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,13.4
+ZZWORX18,Other countries (18),20184,2018Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,72
+ZZWORX18,Other countries (18),20191,2019Q1,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,88
+ZZWORX18,Other countries (18),20191,2019Q1,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,15.9
+ZZWORX18,Other countries (18),20191,2019Q1,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,70
+ZZWORX18,Other countries (18),20192,2019Q2,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,127
+ZZWORX18,Other countries (18),20192,2019Q2,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,11.7
+ZZWORX18,Other countries (18),20192,2019Q2,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,107
+ZZWORX18,Other countries (18),20193,2019Q3,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,155
+ZZWORX18,Other countries (18),20193,2019Q3,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,13.1
+ZZWORX18,Other countries (18),20193,2019Q3,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,119
+ZZWORX18,Other countries (18),20194,2019Q4,TMQ09C1,Overseas Trips to Ireland by Non-Residents,Thousand,103
+ZZWORX18,Other countries (18),20194,2019Q4,TMQ09C2,Average Length of Stay by Overseas Travellers to Ireland,Nights,14.2
+ZZWORX18,Other countries (18),20194,2019Q4,TMQ09C3,Expenditure by Overseas Travellers in Ireland (excluding fares),Euro Million,80
